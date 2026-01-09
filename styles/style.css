@@ -1,0 +1,17 @@
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    border: 1px solid red;
+background-color: #ffffff;
+padding: 16px;
+}
+nav{
+    width:93%;
+    max-width: 1600px;
+    margin: 0% auto;
+    display: flex;
+    justify-content: space-between;
+}
